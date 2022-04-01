@@ -36,6 +36,6 @@ public class GT4500Test {
     // Assert
     assertEquals(true, result);
   }
-  //new line for merge conflict
+  //new line for merge conflict a bit different
 
 }
